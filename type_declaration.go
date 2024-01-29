@@ -1,15 +1,15 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
+// func main() {
 
-	type NoKTP string
+// 	type NoKTP string
 
-	var ktpAldryan NoKTP = "1111111"
+// 	var ktpAldryan NoKTP = "1111111"
 
-	var contoh NoKTP = NoKTP("2222222")
+// 	var contoh NoKTP = NoKTP("2222222")
 
-	fmt.Println(ktpAldryan)
-	fmt.Println(contoh)
-}
+// 	fmt.Println(ktpAldryan)
+// 	fmt.Println(contoh)
+// }
